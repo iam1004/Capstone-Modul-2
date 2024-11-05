@@ -1,6 +1,8 @@
 # Angel_Capstone2 - Supermarket Customers
 ## Overview
 Dalam pasar ritel yang berkembang pesat, supermarket menghadapi tantangan yang signifikan. Dengan meningkatnya persaingan baik dari pengecer fisik maupun online, loyalitas pelanggan dipertaruhkan. Meskipun basis pelanggannya kuat, manajemen khawatir dengan penurunan angka penjualan pada kategori produk tertentu dan tanggapan kampanye yang tidak konsisten. 
+
+Memahami pelanggan kami adalah kunci untuk memaksimalkan penjualan dan meningkatkan kepuasan pelanggan. Dengan menganalisis perilaku pelanggan dan pola belanja, kami dapat menyesuaikan strategi kami untuk memenuhi kebutuhan mereka dengan lebih baik.
 ## Pernyataan Masalah
 Manajemen menyadari perlunya memanfaatkan data pelanggan secara lebih efektif untuk perkembangan supermarket kedepannya. Informasi ini akan membantu manajemen supermarket untuk memahami perilaku pembelanjaan, mengoptimalkan promosi, dan meningkatkan keterlibatan pelanggan.
 
@@ -67,6 +69,8 @@ Dari hasil analisis, kita dapat mengambil kesimpulan berikut tentang customer su
 * Pelanggan yang telah menerima tawaran sebelum nya cendrung menerima tawaran kedepannya.
 * 46% customer berbelanja langsung di toko sedangkan hanya 32% belanja online dan 21% melalui katalog.
 ## Recommendation
+Dengan menggabungkan demografi pelanggan dengan data belanjaan dan respons terhadap promosi, kami dapat menciptakan strategi pemasaran yang sangat bertarget yang tidak hanya meningkatkan penjualan tetapi juga meningkatkan kepuasan dan loyalitas pelanggan secara keseluruhan.
+
 Berdasarkan analisis yang telah dilakukan, berikut beberapa rekomendasi untuk supermarket:
 * Fokus pada Promosi Produk Wine: Karena wine merupakan segment dengan jumlah belanja paling banyak, pertimbangkan untuk meningkatkan promosi, menawarkan diskon, atau menyelenggarakan acara tasting wine untuk menarik lebih banyak pelanggan.
 * Kampanye Berdasarkan Penghasilan: Mengingat penghasilan berpengaruh besar terhadap jumlah belanja, kembangkan kampanye yang ditargetkan berdasarkan segmentasi penghasilan. Misalnya, tawarkan produk premium untuk segmen berpenghasilan tinggi dan produk dengan harga lebih terjangkau untuk segmen berpenghasilan rendah.
